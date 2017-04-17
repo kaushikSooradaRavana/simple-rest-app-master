@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: simple-rest-app
+    description: A simple REST service sample application
+    version: "@project.version@"
+    majorVersion: ${APP_VERSION:1}
